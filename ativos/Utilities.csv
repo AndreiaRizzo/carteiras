@@ -1,0 +1,14 @@
+TAMANHO,,,,,ordem,,
+EIX,"47,89",amarelo,,,ATO,"51,48",amarelo
+ATO,"51,48",amarelo,,,BEP,26,vermelho
+ES,"46,3",amarelo,,,CMS,"42,52",amarelo
+CNP,"40,33",amarelo,,,CNP,"40,33",amarelo
+NRG,"40,01",amarelo,,,EBR,"36,26",vermelho
+CMS,"42,52",amarelo,,,EIX,"47,89",amarelo
+LNT,"41,1",amarelo,,,ES,"46,3",amarelo
+EVRG,"40,62",amarelo,,,EVRG,"40,62",amarelo
+EBR,"36,26",vermelho,,,LNT,"41,1",amarelo
+SBS,"50,55",amarelo,,,NRG,"40,01",amarelo
+PNW,"53,47",amarelo,,,PNW,"53,47",amarelo
+WTRG,"50,21",amarelo,,,SBS,"50,55",amarelo
+BEP,26,vermelho,,,WTRG,"50,21",amarelo

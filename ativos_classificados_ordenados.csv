@@ -1,0 +1,354 @@
+Ticker,Score,Cor,Setor
+CRM,73.88,verde,Technology.csv
+RACE,70.87,verde,Consumer Cyclicals.csv
+CARR,69.16,verde,INDUSTRIA.csv
+YUM,67.83,verde,Consumer Cyclicals.csv
+EQIX,67.49,verde,Real Estate.csv
+WM,67.41,verde,INDUSTRIA.csv
+AON,66.01,verde,Financials.csv
+V,65.73,verde,Technology.csv
+TJX,65.73,verde,Consumer Cyclicals.csv
+FAST,65.58,verde,INDUSTRIA.csv
+WAB,64.76,verde,INDUSTRIA.csv
+O,64.39,verde,Real Estate.csv
+MCD,64.0,verde,Consumer Cyclicals.csv
+ORLY,63.65,verde,Consumer Cyclicals.csv
+MNST,63.64,verde,Consumer Non-Cyclicals.csv
+TMUS,62.88,verde,Technology.csv
+ADI,62.53,verde,Technology.csv
+MCK,62.3,verde,Healthcare.csv
+BEKE,61.99,verde,Real Estate.csv
+IP,61.39,verde,Basic Materials.csv
+CMG,61.38,verde,Consumer Cyclicals.csv
+LOW,61.0,verde,Consumer Cyclicals.csv
+RSG,60.95,verde,INDUSTRIA.csv
+IBM,60.89,verde,Technology.csv
+PAYX,60.87,verde,INDUSTRIA.csv
+PM,60.77,verde,Consumer Non-Cyclicals.csv
+GWW,60.6,verde,INDUSTRIA.csv
+INVH,60.6,verde,Real Estate.csv
+LUV,60.2,verde,INDUSTRIA.csv
+APH,60.14,verde,Technology.csv
+RS,59.79,amarelo,Basic Materials.csv
+NFLX,59.64,amarelo,Technology.csv
+MSCI,59.62,amarelo,INDUSTRIA.csv
+TXN,59.55,amarelo,Technology.csv
+CP,59.21,amarelo,INDUSTRIA.csv
+FCX,59.1,amarelo,Basic Materials.csv
+PLD,59.09,amarelo,Real Estate.csv
+AXP,59.0,amarelo,Financials.csv
+CHT,58.95,amarelo,Technology.csv
+CPAY,58.91,amarelo,INDUSTRIA.csv
+PKG,58.53,amarelo,Basic Materials.csv
+COST,58.4,amarelo,Consumer Cyclicals.csv
+FDX,58.28,amarelo,INDUSTRIA.csv
+EXR,58.23,amarelo,Real Estate.csv
+BDX,57.74,amarelo,Healthcare.csv
+RCL,57.72,amarelo,Consumer Cyclicals.csv
+SHW,57.67,amarelo,Basic Materials.csv
+DECK,57.66,amarelo,Consumer Cyclicals.csv
+WY,57.65,amarelo,Real Estate.csv
+OKE,57.45,amarelo,ENERGIA .csv
+STLD,57.32,amarelo,Basic Materials.csv
+TTE,57.24,amarelo,ENERGIA .csv
+INTU,57.1,amarelo,Technology.csv
+EPD,56.82,amarelo,ENERGIA .csv
+ATGE,56.61,amarelo,Academic & Educational Services.csv
+HD,56.54,amarelo,Consumer Cyclicals.csv
+MMC,56.41,amarelo,Financials.csv
+GSK,56.36,amarelo,Healthcare.csv
+CTAS,56.31,amarelo,INDUSTRIA.csv
+PGR,56.23,amarelo,Financials.csv
+AMCR,56.14,amarelo,Basic Materials.csv
+EFX,56.03,amarelo,INDUSTRIA.csv
+MAR,55.98,amarelo,Consumer Cyclicals.csv
+DIS,55.93,amarelo,Consumer Cyclicals.csv
+AAPL,55.79,amarelo,Technology.csv
+REGN,55.77,amarelo,Healthcare.csv
+MAA,55.74,amarelo,Real Estate.csv
+SBAC,55.65,amarelo,Real Estate.csv
+SLB,55.59,amarelo,ENERGIA .csv
+LRN,55.17,amarelo,Academic & Educational Services.csv
+NVDA,55.13,amarelo,Technology.csv
+DOV,54.93,amarelo,INDUSTRIA.csv
+PYPL,54.85,amarelo,INDUSTRIA.csv
+ABNB,54.63,amarelo,Technology.csv
+ADBE,54.16,amarelo,Technology.csv
+ECL,54.15,amarelo,Basic Materials.csv
+BALL,54.01,amarelo,Basic Materials.csv
+DHR,53.94,amarelo,Healthcare.csv
+QCOM,53.74,amarelo,Technology.csv
+JCI,53.73,amarelo,INDUSTRIA.csv
+VZ,53.51,amarelo,Technology.csv
+VZ,53.51,amarelo,Technology.csv
+PNW,53.47,amarelo,Utilities.csv
+EQR,53.42,amarelo,Real Estate.csv
+ET,53.37,amarelo,ENERGIA .csv
+PANW,53.14,amarelo,Technology.csv
+FI,52.91,amarelo,INDUSTRIA.csv
+CVX,52.85,amarelo,ENERGIA .csv
+RIO,52.84,amarelo,Basic Materials.csv
+KLAC,52.7,amarelo,Technology.csv
+AMT,52.67,amarelo,Real Estate.csv
+AMGN,52.65,amarelo,Healthcare.csv
+PFE,52.65,amarelo,Healthcare.csv
+XOM,52.61,amarelo,ENERGIA .csv
+UBER,52.56,amarelo,Technology.csv
+HON,52.42,amarelo,Consumer Non-Cyclicals.csv
+APP,52.37,amarelo,Technology.csv
+LNG,52.33,amarelo,ENERGIA .csv
+HCA,52.22,amarelo,Healthcare.csv
+LRCX,52.14,amarelo,Technology.csv
+KO,51.87,amarelo,Consumer Non-Cyclicals.csv
+BKNG,51.85,amarelo,Consumer Cyclicals.csv
+JHX,51.85,amarelo,Basic Materials.csv
+OTIS,51.77,amarelo,INDUSTRIA.csv
+T,51.76,amarelo,Technology.csv
+T,51.76,amarelo,Technology.csv
+SBUX,51.71,amarelo,Consumer Cyclicals.csv
+KR,51.68,amarelo,Consumer Non-Cyclicals.csv
+WLK,51.63,amarelo,Basic Materials.csv
+DLR,51.58,amarelo,Real Estate.csv
+MU,51.57,amarelo,Technology.csv
+MSI,51.52,amarelo,Technology.csv
+NOW,51.5,amarelo,Technology.csv
+ENB,51.5,amarelo,ENERGIA .csv
+ATO,51.48,amarelo,Utilities.csv
+ADP,51.43,amarelo,Technology.csv
+MRK,51.06,amarelo,Healthcare.csv
+UNP,51.05,amarelo,INDUSTRIA.csv
+KMI,50.99,amarelo,ENERGIA .csv
+NKE,50.98,amarelo,Consumer Cyclicals.csv
+PSA,50.91,amarelo,Real Estate.csv
+OXY,50.85,amarelo,ENERGIA .csv
+GPN,50.58,amarelo,INDUSTRIA.csv
+SBS,50.55,amarelo,Utilities.csv
+BR,50.55,amarelo,INDUSTRIA.csv
+LYB,50.49,amarelo,Basic Materials.csv
+ANET,50.44,amarelo,Technology.csv
+BUD,50.34,amarelo,Consumer Non-Cyclicals.csv
+PRDO,50.24,amarelo,Academic & Educational Services.csv
+WTRG,50.21,amarelo,Utilities.csv
+FANG,50.02,amarelo,ENERGIA .csv
+APEI,49.75,amarelo,Academic & Educational Services.csv
+CI,49.68,amarelo,Healthcare.csv
+ESS,49.48,amarelo,Real Estate.csv
+IR,49.47,amarelo,INDUSTRIA.csv
+ZTS,49.35,amarelo,Healthcare.csv
+HLT,49.34,amarelo,Consumer Cyclicals.csv
+AMAT,49.33,amarelo,Technology.csv
+CBRE,49.31,amarelo,Real Estate.csv
+COP,49.14,amarelo,ENERGIA .csv
+CL,49.13,amarelo,Consumer Non-Cyclicals.csv
+CME,48.97,amarelo,Financials.csv
+CVS,48.94,amarelo,Healthcare.csv
+LOPE,48.92,amarelo,Academic & Educational Services.csv
+GFI,48.78,amarelo,Basic Materials.csv
+APO,48.74,amarelo,Financials.csv
+PG,48.66,amarelo,Consumer Non-Cyclicals.csv
+SCCO,48.61,amarelo,Basic Materials.csv
+WCN,48.5,amarelo,INDUSTRIA.csv
+LVS,48.47,amarelo,Consumer Cyclicals.csv
+MMM,48.4,amarelo,Consumer Non-Cyclicals.csv
+ROST,48.32,amarelo,Consumer Cyclicals.csv
+TT,48.27,amarelo,INDUSTRIA.csv
+AME,48.18,amarelo,INDUSTRIA.csv
+BRK-A,48.09,amarelo,Consumer Non-Cyclicals.csv
+KVUE,48.07,amarelo,Consumer Non-Cyclicals.csv
+HES,48.03,amarelo,ENERGIA .csv
+AVB,47.98,amarelo,Real Estate.csv
+EIX,47.89,amarelo,Utilities.csv
+TMO,47.87,amarelo,Healthcare.csv
+SNPS,47.76,amarelo,Technology.csv
+RTX,47.72,amarelo,INDUSTRIA.csv
+LII,47.51,amarelo,INDUSTRIA.csv
+SPG,47.29,amarelo,Real Estate.csv
+HUBB,47.13,amarelo,INDUSTRIA.csv
+FTV,47.12,amarelo,INDUSTRIA.csv
+FC,46.86,amarelo,Academic & Educational Services.csv
+BLK,46.7,amarelo,Financials.csv
+DE,46.58,amarelo,INDUSTRIA.csv
+MSFT,46.57,amarelo,Technology.csv
+TSCO,46.37,amarelo,Consumer Cyclicals.csv
+ES,46.3,amarelo,Utilities.csv
+TGT,46.21,amarelo,Consumer Cyclicals.csv
+EOG,46.08,amarelo,ENERGIA .csv
+UTI,45.97,amarelo,Academic & Educational Services.csv
+SHEL,45.93,amarelo,ENERGIA .csv
+CTVA,45.88,amarelo,Basic Materials.csv
+VMC,45.86,amarelo,Basic Materials.csv
+CSCO,45.79,amarelo,Technology.csv
+ABT,45.77,amarelo,Healthcare.csv
+META,45.71,amarelo,Technology.csv
+APD,45.7,amarelo,Basic Materials.csv
+AU,45.45,amarelo,Basic Materials.csv
+GE,45.32,amarelo,INDUSTRIA.csv
+ETN,45.27,amarelo,INDUSTRIA.csv
+SCHW,45.2,amarelo,Financials.csv
+XYL,45.18,amarelo,INDUSTRIA.csv
+VLTO,45.14,amarelo,INDUSTRIA.csv
+TRU,44.99,amarelo,INDUSTRIA.csv
+PPG,44.97,amarelo,Basic Materials.csv
+GS,44.96,amarelo,Financials.csv
+PEP,44.96,amarelo,Consumer Non-Cyclicals.csv
+ODFL,44.92,amarelo,INDUSTRIA.csv
+CB,44.81,amarelo,Financials.csv
+TCOM,44.73,amarelo,Consumer Cyclicals.csv
+RY,44.53,amarelo,Financials.csv
+PH,44.48,amarelo,INDUSTRIA.csv
+CMCSA,44.37,amarelo,Technology.csv
+CMCSA,44.37,amarelo,Technology.csv
+KDP,44.22,amarelo,Consumer Non-Cyclicals.csv
+MA,44.21,amarelo,Technology.csv
+CCL,44.2,amarelo,Consumer Cyclicals.csv
+KMB,44.11,amarelo,Consumer Non-Cyclicals.csv
+HWM,44.1,amarelo,INDUSTRIA.csv
+SPOT,44.0,amarelo,Technology.csv
+TSLA,44.0,amarelo,Consumer Cyclicals.csv
+MDLZ,43.99,amarelo,Consumer Non-Cyclicals.csv
+URI,43.91,amarelo,INDUSTRIA.csv
+MPLX,43.68,amarelo,ENERGIA .csv
+MDT,43.67,amarelo,Healthcare.csv
+VSTA,43.65,amarelo,Academic & Educational Services.csv
+LLY,43.64,amarelo,Healthcare.csv
+F,43.51,amarelo,Consumer Cyclicals.csv
+UPS,43.51,amarelo,INDUSTRIA.csv
+MLM,43.5,amarelo,Basic Materials.csv
+CUK,43.36,amarelo,Consumer Cyclicals.csv
+AVY,43.25,amarelo,Basic Materials.csv
+ACN,43.19,amarelo,Technology.csv
+WSM,42.95,amarelo,Consumer Cyclicals.csv
+BRK-B,42.93,amarelo,Consumer Non-Cyclicals.csv
+CCEP,42.8,amarelo,Consumer Non-Cyclicals.csv
+AZO,42.64,amarelo,Consumer Cyclicals.csv
+CMS,42.52,amarelo,Utilities.csv
+PNC,42.5,amarelo,Financials.csv
+NVR,42.44,amarelo,Consumer Cyclicals.csv
+AEM,42.34,amarelo,Basic Materials.csv
+ROL,42.22,amarelo,INDUSTRIA.csv
+LHX,42.21,amarelo,INDUSTRIA.csv
+STRA,42.12,amarelo,Academic & Educational Services.csv
+ROK,42.03,amarelo,INDUSTRIA.csv
+ICE,41.8,amarelo,Financials.csv
+EME,41.74,amarelo,INDUSTRIA.csv
+NOC,41.71,amarelo,INDUSTRIA.csv
+AMZN,41.54,amarelo,Consumer Cyclicals.csv
+GD,41.51,amarelo,INDUSTRIA.csv
+INTC,41.5,amarelo,Technology.csv
+IRM,41.5,amarelo,Real Estate.csv
+LAUR,41.4,amarelo,Academic & Educational Services.csv
+BAC,41.39,amarelo,Financials.csv
+GILD,41.31,amarelo,Healthcare.csv
+VICI,41.16,amarelo,Real Estate.csv
+LNT,41.1,amarelo,Utilities.csv
+ELV,41.05,amarelo,Healthcare.csv
+MT,41.05,amarelo,Basic Materials.csv
+BMY,40.98,amarelo,Healthcare.csv
+WMB,40.95,amarelo,ENERGIA .csv
+LYV,40.94,amarelo,Consumer Cyclicals.csv
+EMR,40.8,amarelo,INDUSTRIA.csv
+NWG,40.67,amarelo,Financials.csv
+EVRG,40.62,amarelo,Utilities.csv
+MS,40.6,amarelo,Financials.csv
+LULU,40.56,amarelo,Consumer Cyclicals.csv
+CAT,40.52,amarelo,INDUSTRIA.csv
+UNH,40.34,amarelo,Healthcare.csv
+CNP,40.33,amarelo,Utilities.csv
+VRTX,40.25,amarelo,Healthcare.csv
+SU,40.19,amarelo,ENERGIA .csv
+AVGO,40.15,amarelo,Technology.csv
+WFC,40.14,amarelo,Financials.csv
+NTR,40.11,amarelo,Basic Materials.csv
+NRG,40.01,amarelo,Utilities.csv
+DELL,39.98,vermelho,Technology.csv
+RPM,39.81,vermelho,Basic Materials.csv
+RCI,39.78,vermelho,Technology.csv
+ORCL,39.75,vermelho,Technology.csv
+AFYA,39.38,vermelho,Academic & Educational Services.csv
+NUE,39.38,vermelho,Basic Materials.csv
+BKR,39.36,vermelho,ENERGIA .csv
+MPC,39.26,vermelho,ENERGIA .csv
+GM,39.14,vermelho,Consumer Cyclicals.csv
+NSC,38.99,vermelho,INDUSTRIA.csv
+CHTR,38.89,vermelho,Technology.csv
+CHTR,38.89,vermelho,Technology.csv
+NEM,38.81,vermelho,Basic Materials.csv
+GOOG,38.73,vermelho,Technology.csv
+GOOGL,38.68,vermelho,Technology.csv
+CMI,38.61,vermelho,Consumer Cyclicals.csv
+AMD,38.5,vermelho,Technology.csv
+EDU,38.24,vermelho,Academic & Educational Services.csv
+CRWD,38.0,vermelho,Technology.csv
+CPNG,38.0,vermelho,Consumer Cyclicals.csv
+VRT,38.0,vermelho,INDUSTRIA.csv
+DHI,37.89,vermelho,Consumer Cyclicals.csv
+GHC,37.52,vermelho,Academic & Educational Services.csv
+WELL,37.0,vermelho,Real Estate.csv
+JPM,36.9,vermelho,Financials.csv
+JNJ,36.84,vermelho,Healthcare.csv
+SYY,36.84,vermelho,Consumer Non-Cyclicals.csv
+LEN,36.78,vermelho,Consumer Cyclicals.csv
+KHC,36.5,vermelho,Consumer Non-Cyclicals.csv
+ISRG,36.5,vermelho,Healthcare.csv
+GOLD,36.49,vermelho,Basic Materials.csv
+TDG,36.31,vermelho,INDUSTRIA.csv
+SQM,36.27,vermelho,Basic Materials.csv
+EBR,36.26,vermelho,Utilities.csv
+VTR,35.5,vermelho,Real Estate.csv
+ABBV,35.5,vermelho,Healthcare.csv
+SPGI,35.46,vermelho,INDUSTRIA.csv
+BX,35.44,vermelho,Financials.csv
+WMT,35.42,vermelho,Consumer Non-Cyclicals.csv
+SYK,35.41,vermelho,Healthcare.csv
+ITW,35.41,vermelho,Consumer Non-Cyclicals.csv
+CF,35.39,vermelho,Basic Materials.csv
+WPM,35.26,vermelho,Basic Materials.csv
+PCAR,35.15,vermelho,INDUSTRIA.csv
+MCO,35.05,vermelho,INDUSTRIA.csv
+SUZ,35.0,vermelho,Basic Materials.csv
+JD,34.92,vermelho,Consumer Cyclicals.csv
+C,34.63,vermelho,Financials.csv
+LTM,34.55,vermelho,INDUSTRIA.csv
+LINC,34.36,vermelho,Academic & Educational Services.csv
+AXON,34.0,vermelho,INDUSTRIA.csv
+PLTR,33.5,vermelho,Technology.csv
+COF,33.5,vermelho,Financials.csv
+DAL,33.03,vermelho,INDUSTRIA.csv
+CCI,32.5,vermelho,Real Estate.csv
+MO,32.39,vermelho,Consumer Non-Cyclicals.csv
+RYAAY,32.21,vermelho,INDUSTRIA.csv
+BHP,31.84,vermelho,Basic Materials.csv
+TECK,31.75,vermelho,Basic Materials.csv
+KGC,31.66,vermelho,Basic Materials.csv
+DD,31.5,vermelho,Basic Materials.csv
+WAFU,31.5,vermelho,Academic & Educational Services.csv
+MRVL,31.0,vermelho,Technology.csv
+GOTU,31.0,vermelho,Academic & Educational Services.csv
+HEI,30.5,vermelho,INDUSTRIA.csv
+SKIL,30.25,vermelho,Academic & Educational Services.csv
+BSX,29.87,vermelho,Healthcare.csv
+PWR,29.71,vermelho,INDUSTRIA.csv
+QSG,29.02,vermelho,Academic & Educational Services.csv
+YQ,29.0,vermelho,Academic & Educational Services.csv
+ZG,29.0,vermelho,Real Estate.csv
+Z,29.0,vermelho,Real Estate.csv
+BN,28.0,vermelho,Financials.csv
+BEDU,28.0,vermelho,Academic & Educational Services.csv
+UAL,26.98,vermelho,INDUSTRIA.csv
+DOW,26.75,vermelho,Basic Materials.csv
+EEIQ,26.75,vermelho,Academic & Educational Services.csv
+KKR,26.75,vermelho,Financials.csv
+STG,26.23,vermelho,Academic & Educational Services.csv
+BEP,26.0,vermelho,Utilities.csv
+BA,24.75,vermelho,INDUSTRIA.csv
+WBD,24.0,vermelho,Consumer Cyclicals.csv
+EDTK,24.0,vermelho,Academic & Educational Services.csv
+LXEH,23.0,vermelho,Academic & Educational Services.csv
+ZCMD,22.75,vermelho,Academic & Educational Services.csv
+MSTR,22.0,vermelho,Technology.csv
+TAL,19.5,vermelho,Academic & Educational Services.csv
+FEDU,19.0,vermelho,Academic & Educational Services.csv
+ADD,17.0,vermelho,Academic & Educational Services.csv
+JZ,17.0,vermelho,Academic & Educational Services.csv
+GSUN,16.5,vermelho,Academic & Educational Services.csv
+COE,14.5,vermelho,Academic & Educational Services.csv
